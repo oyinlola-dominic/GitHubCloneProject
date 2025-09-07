@@ -1,1 +1,1 @@
-This is the description of my repo
+Objective: Practicing branching, merging, and resolving conflicts.
